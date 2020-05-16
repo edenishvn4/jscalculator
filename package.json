@@ -4,7 +4,8 @@
   "description": "kalkulator sederhana",
   "main": "coba.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx lite-server coba.html"
   },
   "repository": {
     "type": "git",

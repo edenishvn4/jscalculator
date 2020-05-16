@@ -2,10 +2,10 @@
   "name": "calc",
   "version": "1.0.0",
   "description": "kalkulator sederhana",
-  "main": "coba.html",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx lite-server coba.html"
+    "start": "npx lite-server index.html"
   },
   "repository": {
     "type": "git",
